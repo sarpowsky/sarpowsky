@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @sarpowsky
-- 👀 I’m interested in all kinds of software, mainly interested in ML and Data related areas
-- 🌱 I mostly work with Pyton and Javascript
-- 💞️ I’m looking to collaborate on any project that I would be productive
-- 📫 How to reach me: sarpcankaraman@gmail.com
-- ⚡ Fun fact: I love computers :o
-- https://sarpowsky.github.io
+Sarp Can Karaman
+👨‍💻 Machine Learning Engineer & Python Developer
+Building intelligent systems at the intersection of machine learning and production software.
+
+🛠 Technical Stack
+
+Languages: Python, JavaScript, SQL
+ML/DL: TensorFlow, PyTorch, scikit-learn, pandas
+Development: Git, Docker, React, Flask
+Data Visualization: Matplotlib, Recharts
+
+📫 Connect With Me
+
+LinkedIn: Sarp Can Karaman
+Instagram: @_sarpowsky
+Spotify: sarpowsky
+Website: https://sarpowsky.github.io
