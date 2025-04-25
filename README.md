@@ -1,6 +1,6 @@
 # Sarp Can Karaman
 
-## 👨‍💻 Machine Learning Engineer & Python Developer
+## 👨‍💻 Student specializing on Machine Learning Engineering & Python Developing
 
 Building intelligent systems at the intersection of machine learning and production software.
 
