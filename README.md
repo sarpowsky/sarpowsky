@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Rotating taglines — gives it life and personality -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=700&lines=ML+Engineer+in+training+%E2%9C%A6;End-to-end+pipelines+%E2%9A%99%EF%B8%8F;Community+builder+%F0%9F%8C%9F;Istanbul+%E2%86%92+the+world+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=700&lines=ML+Engineer+in+training+%E2%9C%A6;End-to-end+pipelines+%E2%9A%99%EF%B8%8F;Community+contributor+%F0%9F%8C%9F;Istanbul+%E2%86%92+the+world+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -97,25 +97,9 @@ Outside of code, I lead and contribute developer communities, run technical work
 
 <!-- These badges tell the story of your involvement at a glance -->
 
-[![GDG on Campus Haliç](https://img.shields.io/badge/GDG%20on%20Campus%20Haliç-Project%20Team%20Lead-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
-[![Developer MultiGroup](https://img.shields.io/badge/Developer%20MultiGroup-Data%20Science%20Team-00B4D8?style=for-the-badge&logo=devdotto&logoColor=white)](https://github.com/DeveloperMultiGroup)
+[![GDG on Campus Haliç](https://avatars.githubusercontent.com/u/180411956?s=200&v=4)]
+[![Developer MultiGroup](https://instagram.fist20-2.fna.fbcdn.net/v/t51.82787-19/580128936_18073558520263304_5402175047495749315_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fist20-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF90w7ajisrtJcIm6VSYtERW2ZHbxUfXbVzw0zu9Q0pYA9b82xAxyyLRyfzU5t9ISQ&_nc_ohc=WHRTZlY7K5IQ7kNvwGsm_nr&_nc_gid=JBdkF3D7YxPDed6Yw9niUw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af2ldDtqpROxgPJFtnJSS1RqHiqKEmIB-S2Y1v5tIqpE5A&oe=69E83A25&_nc_sid=7a9f4b)]
 
----
-
-## 「 Stats 」
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarpowsky&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpowsky&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sarpowsky&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
 
 ## 「 Connect 」
 
