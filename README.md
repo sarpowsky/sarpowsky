@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="./assets/neural-profile.svg" alt="Sarp Can Karaman — machine learning, data and cloud" width="100%" />
+<img src="./assets/aurora-veil.svg" alt="Sarp Can Karaman — machine learning, data and cloud" width="100%" />
 
 # Sarp Can Karaman
 
 **Machine learning · Data · Cloud**
 
-[Portfolio](https://sarpowsky.github.io) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/sarpcankaraman) &nbsp; / &nbsp; [Email](mailto:sarpcankaraman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7553C8?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sarpowsky.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1675BD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarpcankaraman)
+[![Email](https://img.shields.io/badge/Email-DB5E82?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarpcankaraman@gmail.com)
 
 </div>
 
 ---
 
-### Hello, I'm Sarp.
+### 👋 Hello, I'm Sarp.
 
 I'm a fourth-year Computer Engineering student at **Haliç University**, graduating in June 2027 (expected). I like working across the full path from data and models to the infrastructure that makes them useful.
 
@@ -22,21 +24,21 @@ I've worked in data analysis at **lodos.**, cloud and DevOps at **Soliner**, and
 
 ---
 
-### Selected work
+### 🚀 Selected work
 
-**[01 / KaBooom ↗](https://kabooom.live)** &nbsp; `REAL-TIME PRODUCT`
+**[01 / KaBooom ↗](https://kabooom.live)** &nbsp; ![Real-time product](https://img.shields.io/badge/REAL--TIME_PRODUCT-8B5CF6?style=flat-square)
 
 A live multiplayer quiz platform for community events. Players join from a browser; the server handles the game loop, answer locking, and timing.
 
 <sub>TypeScript · React · Node.js · Socket.IO · Astro · Cloudflare</sub>
 
-**[02 / K8s Carbon Advisor ↗](https://github.com/sarpowsky/k8s-carbon-advisor)** &nbsp; `CLOUD & DEVOPS`
+**[02 / K8s Carbon Advisor ↗](https://github.com/sarpowsky/k8s-carbon-advisor)** &nbsp; ![Cloud and DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-168F9D?style=flat-square)
 
 A FastAPI service on GKE Autopilot for Kubernetes workload rightsizing and carbon footprint estimation, with CI/CD and autoscaling.
 
 <sub>Python · FastAPI · Docker · Kubernetes · GKE · GitHub Actions</sub>
 
-**03 / Implicit-Feedback Recommender** &nbsp; `MACHINE LEARNING`
+**03 / Implicit-Feedback Recommender** &nbsp; ![Machine learning](https://img.shields.io/badge/MACHINE_LEARNING-E16B8C?style=flat-square)
 
 Benchmarked recommendation models on **2.7 million e-commerce interactions**, exploring the trade-off between ranking accuracy and catalog coverage.
 
@@ -59,7 +61,7 @@ Benchmarked recommendation models on **2.7 million e-commerce interactions**, ex
 
 ---
 
-### Tools of the trade
+### 🧰 Tools of the trade
 
 <div align="center">
 
@@ -81,7 +83,7 @@ Benchmarked recommendation models on **2.7 million e-commerce interactions**, ex
 
 ---
 
-### Experience
+### 💼 Experience
 
 **lodos.** &nbsp; / &nbsp; Data Analyst Intern &nbsp; <sub>Aug–Oct 2026</sub>  
 Analyzed product data and designed the data model and architecture of a live forms product within Gathin.
@@ -98,13 +100,31 @@ Developed Python programs, analyzed data in Excel, and produced technical drafts
 **TECHBROS** &nbsp; / &nbsp; Data & AI Intern &nbsp; <sub>Jul–Aug 2025</sub>  
 Completed InternCamp2025, with training in data analytics, databases, ML integration, and enterprise systems.
 
-### Education & certifications
+### 🎓 Education
 
-**Haliç University** — B.Sc. Computer Engineering, 2023–June 2027 (expected)  
-**Google Cloud** — Associate Cloud Engineer, September 2026  
-**Huawei Cloud** — HCCDA-Tech Essentials, September 2025
+**Haliç University** · B.Sc. Computer Engineering  
+2023–June 2027 (expected)
 
-### Community
+### 🏅 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/org/google-cloud/badge/associate-cloud-engineer-certification"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130" alt="Google Cloud Associate Cloud Engineer certification badge" /></a>
+      <br/><strong>Associate Cloud Engineer</strong>
+      <br/><sub>Google Cloud · September 2026</sub>
+      <br/><a href="https://cloud.google.com/learn/certification/cloud-engineer">About the certification ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.huaweicloud.com/intl/en-us/partners/roles/service_partner/certification_exam/index.html"><img src="https://img.shields.io/badge/HUAWEI%20CLOUD-CB2027?style=for-the-badge&amp;logo=huawei&amp;logoColor=white" width="180" alt="Huawei Cloud logo" /></a>
+      <br/><br/><strong>HCCDA-Tech Essentials</strong>
+      <br/><sub>Huawei Cloud · September 2025</sub>
+      <br/><a href="https://www.huaweicloud.com/intl/en-us/partners/roles/service_partner/certification_exam/index.html">About the certification ↗</a>
+    </td>
+  </tr>
+</table>
+
+### 🌱 Community
 
 **GDG on Campus Haliç** — Organizer since July 2026; previously Project Team Lead from September 2025 to July 2026. Led technical projects, organized workshops, and co-organized Haliç Engineering Summit'25.
 
@@ -112,7 +132,7 @@ Completed InternCamp2025, with training in data analytics, databases, ML integra
 
 ---
 
-### Contribution trail
+### 🐍 Contribution trail
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarpowsky/sarpowsky/output/snake-dark.svg" />
