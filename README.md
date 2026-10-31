@@ -61,6 +61,17 @@ Benchmarked recommendation models on **2.7 million e-commerce interactions**, ex
 
 ### Tools of the trade
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-151c2c?style=for-the-badge&logo=python&logoColor=79c0ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-151c2c?style=for-the-badge&logo=pytorch&logoColor=ee8b73)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151c2c?style=for-the-badge&logo=postgresql&logoColor=80b4e8)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-151c2c?style=for-the-badge&logo=googlecloud&logoColor=8ab4f8)
+![Docker](https://img.shields.io/badge/Docker-151c2c?style=for-the-badge&logo=docker&logoColor=79c0ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-151c2c?style=for-the-badge&logo=kubernetes&logoColor=9caeff)
+
+</div>
+
 | Area | Tools & interests |
 | :--- | :--- |
 | **Programming & data** | Python · SQL · PostgreSQL · Pandas · NumPy · Polars · dbt · Git · Linux |
@@ -98,6 +109,18 @@ Completed InternCamp2025, with training in data analytics, databases, ML integra
 **GDG on Campus Haliç** — Organizer since July 2026; previously Project Team Lead from September 2025 to July 2026. Led technical projects, organized workshops, and co-organized Haliç Engineering Summit'25.
 
 **MultiGroup Community** — Pioneer Member, Data Science Team, February–October 2026. Contributed to projects and courses, organized technology summits, and instructed in the Build With AI workshop series.
+
+---
+
+### Contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarpowsky/sarpowsky/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarpowsky/sarpowsky/output/snake.svg" />
+  <img alt="A snake moving across Sarp's GitHub contribution graph" src="https://raw.githubusercontent.com/sarpowsky/sarpowsky/output/snake.svg" width="100%" />
+</picture>
+
+<sub>Generated from my GitHub contributions and refreshed daily.</sub>
 
 ---
 
