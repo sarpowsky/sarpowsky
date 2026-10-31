@@ -2,10 +2,6 @@
 
 <img src="./assets/aurora-veil.svg" alt="Sarp Can Karaman — machine learning, data and cloud" width="100%" />
 
-# Sarp Can Karaman
-
-**Machine learning · Data · Cloud**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-7553C8?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sarpowsky.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1675BD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarpcankaraman)
 [![Email](https://img.shields.io/badge/Email-DB5E82?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarpcankaraman@gmail.com)
